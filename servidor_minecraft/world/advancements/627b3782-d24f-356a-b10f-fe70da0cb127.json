@@ -6765,6 +6765,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 23:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
@@ -6786,6 +6792,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-05 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-05 22:56:27 +0000"
     },
     "done": true
   },
@@ -6828,6 +6840,12 @@
   "sophisticatedstorage:recipes/misc/copper_barrel": {
     "criteria": {
       "has_barrel": "2025-03-05 22:05:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-05 22:56:36 +0000"
     },
     "done": true
   },
@@ -6906,6 +6924,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-05 22:56:45 +0000"
     },
     "done": true
   },
@@ -7020,6 +7044,12 @@
   "sophisticatedstorage:recipes/misc/iron_barrel": {
     "criteria": {
       "has_barrel": "2025-03-05 22:05:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-03-05 22:56:19 +0000"
     },
     "done": true
   },
