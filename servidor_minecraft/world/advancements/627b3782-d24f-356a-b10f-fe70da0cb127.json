@@ -6645,6 +6645,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
@@ -6660,6 +6666,12 @@
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-03-05 22:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
     },
     "done": true
   },
@@ -6735,11 +6747,23 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-03-05 22:54:02 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-03-05 22:21:17 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-03-05 22:48:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
@@ -6783,9 +6807,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
     },
     "done": true
   },
@@ -6798,6 +6834,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-05 22:49:20 +0000"
     },
     "done": true
   },
@@ -6825,6 +6873,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-03-05 21:19:41 +0000"
@@ -6834,6 +6888,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
     },
     "done": true
   },
