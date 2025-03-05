@@ -1146,3 +1146,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Mar2025 20:00:59.935] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: lootintegrations.json
 [05Mar2025 20:00:59.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/AbortableIterationConsumer$Continuation
 [05Mar2025 20:01:00.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/village/poi/PoiManager$Occupancy
+[05Mar2025 20:13:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Mar2025 20:13:47.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sim<--[HERE]
