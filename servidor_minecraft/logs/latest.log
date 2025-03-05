@@ -1276,3 +1276,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [05Mar2025 22:47:50.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [05Mar2025 22:49:20.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Magic Mod Mechanic]
 [05Mar2025 22:54:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Magebloom]
+[05Mar2025 23:11:00.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[05Mar2025 23:11:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
