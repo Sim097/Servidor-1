@@ -6318,9 +6318,63 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-03-05 03:17:57 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll_sturdy": {
     "criteria": {
       "find": "2025-03-05 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-03-05 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-03-05 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-05 03:25:58 +0000"
     },
     "done": true
   },
@@ -6348,12 +6402,6 @@
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2025-03-05 03:49:13 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/holystone_stonecutter": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
@@ -6378,12 +6426,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-05 03:25:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/holystone_sword": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
@@ -6393,18 +6435,6 @@
   "aether:recipes/decorations/holystone_wall": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-03-05 03:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-05 03:25:58 +0000"
     },
     "done": true
   },
@@ -6426,27 +6456,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-03-05 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-03-05 03:25:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/decorations/freezer": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-03-05 03:17:57 +0000"
     },
     "done": true
   },
@@ -6459,12 +6471,6 @@
   "aether:recipes/decorations/incubator": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-03-05 03:40:16 +0000"
     },
     "done": true
   },
@@ -6492,30 +6498,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2025-03-05 03:18:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-03-05 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
-    "criteria": {
-      "has_copper_chest": "2025-03-05 03:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-03-05 03:25:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
@@ -6528,21 +6510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2025-03-05 03:25:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/mossy_holystone_with_moss": {
     "criteria": {
       "has_holystone": "2025-03-05 03:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2025-03-05 03:25:58 +0000"
     },
     "done": true
   },
@@ -6558,9 +6528,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "sophisticatedstorage:recipes/misc/double_iron_chest_from_copper_chest": {
     "criteria": {
-      "has_needed_dye": "2025-03-05 03:25:58 +0000"
+      "has_copper_chest": "2025-03-05 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-03-05 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_shulker_from_copper_chest": {
+    "criteria": {
+      "has_copper_chest": "2025-03-05 03:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-05 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-03-05 03:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-05 03:53:02 +0000"
     },
     "done": true
   },
