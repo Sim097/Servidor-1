@@ -2518,7 +2518,8 @@
       "glow_berries": "2025-03-03 20:08:25 +0000",
       "melon_slice": "2025-03-04 21:44:56 +0000",
       "cooked_chicken": "2025-03-04 20:36:39 +0000",
-      "mushroom_stew": "2025-03-03 18:26:40 +0000"
+      "mushroom_stew": "2025-03-03 18:26:40 +0000",
+      "carrot": "2025-03-05 22:23:07 +0000"
     },
     "done": false
   },
@@ -6662,6 +6663,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-05 22:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
@@ -6671,6 +6684,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-05 22:21:17 +0000"
     },
     "done": true
   },

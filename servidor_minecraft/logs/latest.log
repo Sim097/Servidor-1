@@ -1266,3 +1266,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [05Mar2025 22:09:11.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [05Mar2025 22:09:11.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedstorage/common/gui/BlockSide
 [05Mar2025 22:09:11.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedstorage/upgrades/IOMode
+[05Mar2025 22:21:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Hot Stuff]
+[05Mar2025 22:23:22.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[05Mar2025 22:23:22.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
