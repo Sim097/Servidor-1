@@ -1283,3 +1283,7 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 19:16:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Secrets of Enchanting]
 [08Mar2025 19:20:05.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [08Mar2025 19:34:47.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/95, l='ServerLevel[world]', x=-758.22, y=36.14, z=-329.51] died: Undead Knight was slain by foxytrapx
+[08Mar2025 19:41:07.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver drowned
+[08Mar2025 19:43:24.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[08Mar2025 19:44:38.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[08Mar2025 19:46:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
