@@ -1287,3 +1287,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 19:43:24.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
 [08Mar2025 19:44:38.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
 [08Mar2025 19:46:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver fell from a high place
+[08Mar2025 19:55:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver drowned
