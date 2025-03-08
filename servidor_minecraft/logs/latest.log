@@ -1295,3 +1295,11 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 22:14:12.593] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
 [08Mar2025 22:19:02.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
 [08Mar2025 22:19:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[08Mar2025 22:27:55.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katze5O5 lost connection: Disconnected
+[08Mar2025 22:27:55.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 left the game
+[08Mar2025 22:29:24.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rio[/127.27.212.240:53233] logged in with entity id 44346 at (-730.5, 85.5625, -342.5)
+[08Mar2025 22:29:24.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio joined the game
+[08Mar2025 22:29:24.738] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rio
+[08Mar2025 22:29:24.745] [Server thread/INFO] [Jade/]: Syncing config to Rio (4ebaf4e6-3cd2-32ea-91d5-c9cc39926bd6)
+[08Mar2025 22:32:11.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rio lost connection: Disconnected
+[08Mar2025 22:32:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio left the game
