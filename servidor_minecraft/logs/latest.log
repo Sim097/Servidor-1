@@ -1325,3 +1325,11 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 21:07:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
 [08Mar2025 21:07:49.341] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
 [08Mar2025 21:07:49.347] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
+[08Mar2025 21:14:23.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 21:14:47.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 21:16:15.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:59739] logged in with entity id 85050 at (-747.9668519455834, 89.0, -336.5565096862801)
+[08Mar2025 21:16:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[08Mar2025 21:16:15.088] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[08Mar2025 21:16:15.098] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[08Mar2025 21:18:48.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[08Mar2025 21:18:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
