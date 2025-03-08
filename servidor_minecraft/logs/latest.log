@@ -1292,3 +1292,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 22:09:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <foxytrapx> kill LuxSilver
 [08Mar2025 22:11:03.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [A Seedy Place]
 [08Mar2025 22:12:03.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/util/RecipeHelper$CompactingShape
+[08Mar2025 22:14:12.593] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[08Mar2025 22:19:02.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[08Mar2025 22:19:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
