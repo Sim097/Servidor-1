@@ -1267,3 +1267,28 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 21:45:52.565] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
 [08Mar2025 21:49:59.658] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
 [08Mar2025 21:50:09.879] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/darktower/EnumDarkTowerDoor
+[08Mar2025 21:53:06.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[08Mar2025 21:53:06.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[08Mar2025 21:54:04.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[08Mar2025 21:54:16.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Mar2025 21:54:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [A Throwaway Joke]
+[08Mar2025 21:55:14.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5's brain was turned into leaves by Skeleton Druid
+[08Mar2025 21:56:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Sweet Dreams]
+[08Mar2025 21:57:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has reached the goal [Bring Out Your Dead]
+[08Mar2025 22:00:06.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/network/PacketANEffect$EffectType
+[08Mar2025 22:04:24.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 22:04:31.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 22:04:59.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[08Mar2025 22:04:59.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[08Mar2025 22:06:15.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Isn't It Iron Pick]
+[08Mar2025 22:07:42.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:60569] logged in with entity id 31160 at (-5542.131637999074, 6.0, -3010.284295657768)
+[08Mar2025 22:07:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[08Mar2025 22:07:42.409] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[08Mar2025 22:07:42.418] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[08Mar2025 22:08:24.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[08Mar2025 22:08:24.887] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedstorage/upgrades/IOMode
+[08Mar2025 22:09:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katze5O5> quem é Sally?
+[08Mar2025 22:09:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Katze5O5> ela acabou de acordar
+[08Mar2025 22:09:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <foxytrapx> kill LuxSilver
+[08Mar2025 22:11:03.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [A Seedy Place]
+[08Mar2025 22:12:03.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/util/RecipeHelper$CompactingShape
