@@ -1313,3 +1313,15 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 20:53:42.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1609d23d[id=<null>,name=Rio,properties={},legacy=false] (/127.27.212.240:47827) lost connection: Disconnected
 [08Mar2025 20:53:53.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx lost connection: Disconnected
 [08Mar2025 20:53:53.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
+[08Mar2025 21:00:14.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fe735b6[id=<null>,name=Rio,properties={},legacy=false] (/127.27.212.240:54925) lost connection: Disconnected
+[08Mar2025 21:00:33.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rio[/127.27.212.240:45171] logged in with entity id 80693 at (-730.5, 85.5625, -342.5)
+[08Mar2025 21:00:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio joined the game
+[08Mar2025 21:00:33.390] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rio
+[08Mar2025 21:00:33.401] [Server thread/INFO] [Jade/]: Syncing config to Rio (4ebaf4e6-3cd2-32ea-91d5-c9cc39926bd6)
+[08Mar2025 21:02:16.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rio lost connection: Timed out
+[08Mar2025 21:02:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio left the game
+[08Mar2025 21:06:11.179] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2dc4ada1[id=<null>,name=foxytrapx,properties={},legacy=false] (/127.101.199.103:43005) lost connection: Disconnected
+[08Mar2025 21:07:49.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: foxytrapx[/127.101.199.103:46969] logged in with entity id 81149 at (-729.8251591951142, 85.0, -339.25298685301584)
+[08Mar2025 21:07:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx joined the game
+[08Mar2025 21:07:49.341] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: foxytrapx
+[08Mar2025 21:07:49.347] [Server thread/INFO] [Jade/]: Syncing config to foxytrapx (73cb5e8e-2c54-3163-9df1-c6784f0a47c6)
