@@ -7103,9 +7103,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-03-08 19:28:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/paper_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2025-03-08 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-08 19:31:24 +0000"
     },
     "done": true
   },
@@ -7121,9 +7133,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-03-08 19:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-08 19:12:47 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-03-08 19:26:10 +0000"
     },
     "done": true
   },
