@@ -1307,3 +1307,28 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 22:39:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
 [08Mar2025 22:39:21.517] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
 [08Mar2025 22:39:21.534] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[08Mar2025 22:44:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Howling Blades]
+[08Mar2025 22:45:04.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rio[/127.27.212.240:37491] logged in with entity id 50842 at (-730.6343267715803, 85.0, -338.7610562858522)
+[08Mar2025 22:45:04.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio joined the game
+[08Mar2025 22:45:04.512] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Rio
+[08Mar2025 22:45:04.518] [Server thread/INFO] [Jade/]: Syncing config to Rio (4ebaf4e6-3cd2-32ea-91d5-c9cc39926bd6)
+[08Mar2025 22:45:43.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Re-acquired Knowledge]
+[08Mar2025 22:45:43.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Magebloom]
+[08Mar2025 22:48:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio was slain by foxytrapx
+[08Mar2025 22:48:19.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio has made the advancement [Acquire Hardware]
+[08Mar2025 22:48:21.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio has made the advancement [Stone Age]
+[08Mar2025 22:48:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio has made the advancement [Not a Diamond]
+[08Mar2025 22:48:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio has made the advancement [Far From Perfect]
+[08Mar2025 22:48:57.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio was slain by foxytrapx
+[08Mar2025 22:52:43.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/items/modular/impl/toolbelt/SlotType
+[08Mar2025 22:58:21.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[08Mar2025 23:01:54.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[08Mar2025 23:02:53.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 23:02:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 23:02:59.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 23:04:01.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Crops of the Wild]
+[08Mar2025 23:04:18.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [A Seedy Place]
+[08Mar2025 23:04:18.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio has made the advancement [Don't Count Your Moas...]
+[08Mar2025 23:07:45.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 23:16:16.935] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/adventure/affix/effect/RadialAffix$RadialState
+[08Mar2025 23:18:53.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Apothic Spawners]
