@@ -1303,3 +1303,7 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 22:29:24.745] [Server thread/INFO] [Jade/]: Syncing config to Rio (4ebaf4e6-3cd2-32ea-91d5-c9cc39926bd6)
 [08Mar2025 22:32:11.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rio lost connection: Disconnected
 [08Mar2025 22:32:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio left the game
+[08Mar2025 22:39:21.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:35861] logged in with entity id 47816 at (-727.2370011319065, 85.0, -345.89252601462755)
+[08Mar2025 22:39:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[08Mar2025 22:39:21.517] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[08Mar2025 22:39:21.534] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)

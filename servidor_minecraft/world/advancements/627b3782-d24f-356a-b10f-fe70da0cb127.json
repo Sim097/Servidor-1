@@ -7257,6 +7257,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-08 22:11:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-03-08 22:16:03 +0000"
@@ -7272,12 +7278,6 @@
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_2_from_backpack_stack_upgrade_tier_1": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-03-08 22:17:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-03-08 22:11:03 +0000"
     },
     "done": true
   },
