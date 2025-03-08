@@ -1296,3 +1296,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 20:13:32.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [08Mar2025 20:21:40.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [08Mar2025 20:28:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Lapidary]
+[08Mar2025 20:30:18.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Magic Mod Mechanic]
+[08Mar2025 20:30:22.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Not a Fluid!]
+[08Mar2025 20:30:25.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx has made the advancement [Imbued]

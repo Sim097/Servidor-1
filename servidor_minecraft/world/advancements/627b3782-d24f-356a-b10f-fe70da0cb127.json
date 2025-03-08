@@ -7140,6 +7140,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-03-08 20:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-08 19:37:35 +0000"
@@ -7179,6 +7185,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-08 19:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-08 20:32:29 +0000"
     },
     "done": true
   },
