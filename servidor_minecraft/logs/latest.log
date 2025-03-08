@@ -1291,3 +1291,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 20:02:02.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver drowned
 [08Mar2025 20:03:44.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was blown up by Creeper
 [08Mar2025 20:05:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was shot by Skeleton
+[08Mar2025 20:13:31.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 20:13:32.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 20:13:32.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
