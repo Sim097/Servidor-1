@@ -1278,3 +1278,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 18:52:31.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedstorage/upgrades/IOMode
 [08Mar2025 18:55:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver hit the ground too hard
 [08Mar2025 18:59:43.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Mar2025 19:11:49.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-735, y=78, z=-230} BlockPos{x=-735, y=77, z=-231}
+[08Mar2025 19:12:04.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/items/modular/impl/toolbelt/SlotType
+[08Mar2025 19:16:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Secrets of Enchanting]
