@@ -1281,3 +1281,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 19:11:49.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-735, y=78, z=-230} BlockPos{x=-735, y=77, z=-231}
 [08Mar2025 19:12:04.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/items/modular/impl/toolbelt/SlotType
 [08Mar2025 19:16:10.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Secrets of Enchanting]
+[08Mar2025 19:20:05.990] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
