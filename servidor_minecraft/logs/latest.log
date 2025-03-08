@@ -1333,3 +1333,19 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 21:16:15.098] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
 [08Mar2025 21:18:48.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
 [08Mar2025 21:18:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[08Mar2025 21:21:21.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:58351] logged in with entity id 87589 at (-747.9668519455834, 89.0, -336.5565096862801)
+[08Mar2025 21:21:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[08Mar2025 21:21:21.689] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[08Mar2025 21:21:21.699] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[08Mar2025 21:25:08.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 21:29:11.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katze5O5[/127.62.221.128:35025] logged in with entity id 90354 at (-5853.260390908258, 5.0, -4075.2588259041013)
+[08Mar2025 21:29:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 joined the game
+[08Mar2025 21:29:11.256] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Katze5O5
+[08Mar2025 21:29:11.266] [Server thread/INFO] [Jade/]: Syncing config to Katze5O5 (9e07948b-d323-3585-b13c-6229722bd499)
+[08Mar2025 21:31:15.637] [Worker-Main-72/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/WoodPalette$WoodShapes
+[08Mar2025 21:31:20.435] [Worker-Main-86/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$HutType
+[08Mar2025 21:31:30.150] [Worker-Main-88/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/util/HugeMushroomUtil$HugeMushroomType
+[08Mar2025 21:31:59.128] [Worker-Main-86/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[08Mar2025 21:32:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Barrel Booty]
+[08Mar2025 21:33:31.120] [Worker-Main-85/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/feature/templates/DruidHutFeature$BasementType
+[08Mar2025 21:34:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katze5O5 has made the advancement [Disme A Dozen]
