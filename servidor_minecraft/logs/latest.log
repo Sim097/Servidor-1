@@ -1294,3 +1294,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 20:13:31.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [08Mar2025 20:13:32.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [08Mar2025 20:13:32.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 20:21:40.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
+[08Mar2025 20:28:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [The Lapidary]
