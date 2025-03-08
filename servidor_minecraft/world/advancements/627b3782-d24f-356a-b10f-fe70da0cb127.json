@@ -6995,6 +6995,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-03-08 18:59:48 +0000",
       "carrot": "2025-03-05 22:48:25 +0000"
     },
     "done": false
@@ -7062,6 +7063,24 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-03-05 23:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-08 18:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-08 18:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-08 18:50:36 +0000"
     },
     "done": true
   },

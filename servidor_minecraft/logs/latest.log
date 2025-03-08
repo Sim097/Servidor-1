@@ -1272,3 +1272,9 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 18:36:26.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [08Mar2025 18:40:31.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [08Mar2025 18:42:08.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Mar2025 18:48:59.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=77, z=-325} BlockPos{x=-824, y=76, z=-325}
+[08Mar2025 18:52:25.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-827, y=78, z=-260} BlockPos{x=-827, y=77, z=-260}
+[08Mar2025 18:52:31.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[08Mar2025 18:52:31.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedstorage/upgrades/IOMode
+[08Mar2025 18:55:31.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver hit the ground too hard
+[08Mar2025 18:59:43.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
