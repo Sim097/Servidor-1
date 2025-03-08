@@ -6639,21 +6639,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
+      "nova_structures:tavern_acacia": "2025-03-05 21:18:40 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
+  "nova_structures:root": {
     "criteria": {
-      "has_water_bucket": "2025-03-05 22:47:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-03-05 22:41:00 +0000"
+      "nova_structures:adventure/find_tavern": "2025-03-05 21:18:40 +0000"
     },
     "done": true
   },
@@ -6663,21 +6657,111 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 21:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-05 21:19:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 21:19:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-03-05 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-03-05 22:04:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-03-05 22:05:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-03-05 22:05:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel_from_copper_barrel": {
+    "criteria": {
+      "has_copper_barrel": "2025-03-05 22:06:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-03-05 22:07:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-03-05 22:08:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "mynethersdelight:recipes/cooking/hotcream": {
     "criteria": {
-      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+      "has_any_ingredient": "2025-03-05 22:21:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "has_glass": "2025-03-05 22:41:00 +0000"
+      "has_lava_bucket": "2025-03-05 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-05 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
     },
     "done": true
   },
@@ -6690,6 +6774,96 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-05 22:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-05 22:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-05 22:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 22:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-03-05 22:41:00 +0000"
     },
     "done": true
   },
@@ -6711,93 +6885,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_barrel_from_copper_barrel": {
-    "criteria": {
-      "has_copper_barrel": "2025-03-05 22:06:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-05 22:21:17 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:magebloom_crop": {
-    "criteria": {
-      "has_magebloom_crop": "2025-03-05 22:54:02 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-03-05 22:21:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "carrot": "2025-03-05 22:48:25 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/iron_chestplate_repairing": {
-    "criteria": {
-      "has_iron_chestplate": "2025-03-05 23:00:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-05 22:21:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-03-05 22:56:27 +0000"
     },
     "done": true
   },
@@ -6807,63 +6897,9 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_acacia": "2025-03-05 21:18:40 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
-    "criteria": {
-      "has_vanilla_barrel": "2025-03-05 22:04:46 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
-    "criteria": {
-      "has_bone_meal": "2025-03-05 22:52:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-03-05 22:47:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_barrel": {
-    "criteria": {
-      "has_barrel": "2025-03-05 22:05:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-03-05 22:56:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-03-05 22:52:29 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:enchanting_apparatus": {
-    "criteria": {
-      "has_enchanting_apparatus": "2025-03-05 22:49:20 +0000"
     },
     "done": true
   },
@@ -6885,51 +6921,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-03-05 22:34:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-03-05 22:47:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-05 21:19:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-03-05 22:47:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2025-03-05 22:56:45 +0000"
     },
     "done": true
   },
@@ -6951,63 +6945,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-03-05 21:18:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/advanced_hopper_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2025-03-05 22:07:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-03-05 21:20:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-03-05 23:05:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-03-05 21:19:41 +0000"
     },
     "done": true
   },
@@ -7017,21 +6957,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-03-05 22:28:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-05 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-03-05 22:34:52 +0000"
     },
     "done": true
   },
@@ -7041,15 +6969,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
-      "has_amethyst_shard": "2025-03-05 21:40:15 +0000"
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/iron_barrel": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_barrel": "2025-03-05 22:05:54 +0000"
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-03-05 22:47:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-03-05 22:48:25 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-05 22:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-05 22:52:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-03-05 22:54:02 +0000"
     },
     "done": true
   },
@@ -7059,9 +7035,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "has_any_ingredient": "2025-03-05 21:19:41 +0000"
+      "has_golden_leggings": "2025-03-05 22:56:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-05 22:56:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-03-05 22:56:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 23:00:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-05 23:05:17 +0000"
     },
     "done": true
   },

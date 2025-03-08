@@ -2501,6 +2501,7 @@
       "minecraft:zombified_piglin": "2025-03-04 22:33:40 +0000",
       "minecraft:husk": "2025-03-03 23:52:20 +0000",
       "minecraft:stray": "2025-03-04 01:21:43 +0000",
+      "minecraft:enderman": "2025-03-08 18:42:08 +0000",
       "minecraft:zombie": "2025-03-03 18:54:55 +0000"
     },
     "done": false
@@ -6815,6 +6816,36 @@
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-03-05 04:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-08 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-08 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-08 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/cocoa_fudge": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-08 18:03:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-03-08 18:42:08 +0000"
     },
     "done": true
   },
