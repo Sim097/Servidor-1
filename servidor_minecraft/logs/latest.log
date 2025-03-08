@@ -1332,3 +1332,13 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Mar2025 23:07:45.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: foxytrapx moved wrongly!
 [08Mar2025 23:16:16.935] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/apotheosis/adventure/affix/effect/RadialAffix$RadialState
 [08Mar2025 23:18:53.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver has made the advancement [Apothic Spawners]
+[08Mar2025 23:24:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the Wraith's haunt
+[08Mar2025 23:30:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <foxytrapx> oq vc ta fazendo
+[08Mar2025 23:32:36.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[08Mar2025 23:32:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[08Mar2025 23:33:50.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:56073] logged in with entity id 83873 at (-5750.914642460534, 7.0, -2883.9536801642985)
+[08Mar2025 23:33:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[08Mar2025 23:33:50.561] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[08Mar2025 23:33:50.579] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[08Mar2025 23:38:46.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[08Mar2025 23:38:46.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
