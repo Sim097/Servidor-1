@@ -7,3 +7,14 @@
 [09Mar2025 00:22:35.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: foxytrapx left the game
 [09Mar2025 00:23:07.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rio lost connection: Disconnected
 [09Mar2025 00:23:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rio left the game
+[09Mar2025 00:35:23.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver was kicked for floating too long!
+[09Mar2025 00:35:23.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Disconnected
+[09Mar2025 00:35:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
+[09Mar2025 00:35:23.267] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Mar2025 00:39:27.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxSilver[/127.69.220.99:58967] logged in with entity id 117864 at (-766.1136332729196, 72.79673560066871, -269.1384550507772)
+[09Mar2025 00:39:27.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver joined the game
+[09Mar2025 00:39:27.252] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LuxSilver
+[09Mar2025 00:39:27.263] [Server thread/INFO] [Jade/]: Syncing config to LuxSilver (627b3782-d24f-356a-b10f-fe70da0cb127)
+[09Mar2025 00:40:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver was slain by Spider
+[09Mar2025 00:42:40.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxSilver lost connection: Timed out
+[09Mar2025 00:42:40.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxSilver left the game
