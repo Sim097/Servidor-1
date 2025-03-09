@@ -7393,3 +7393,42 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [09Mar2025 01:42:50.993] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
 [09Mar2025 01:42:50.993] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
 [09Mar2025 01:42:50.994] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:43:16.482] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:43:50.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 01:43:50.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 01:44:57.695] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_shield)
+[09Mar2025 01:44:57.695] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[09Mar2025 01:44:57.696] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d85d1077-76d6-4ab8-8b8d-f8f859b80655)
+[09Mar2025 01:44:57.697] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f6565a8f-d732-4ecf-ade8-725fe5acd884)
+[09Mar2025 01:44:57.700] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (205dc79c-dee5-450d-80eb-a585cefabf08)
+[09Mar2025 01:44:57.701] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (738c59f0-0b5b-43f5-bc7f-844a81cdaff4)
+[09Mar2025 01:44:57.702] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8b6c019b-1758-430a-8142-6636146d7c39)
+[09Mar2025 01:46:09.262] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[09Mar2025 01:47:00.675] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (b5936307-b925-4d7c-b79e-92cd4fb84c55)
+[09Mar2025 01:47:00.675] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (6fa35e38-337c-454b-8ce0-d0b9919862c4)
+[09Mar2025 01:47:48.298] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Mar2025 01:47:51.041] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:48:02.044] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.impl.ModularDoubleHeadedItem/]: Gathering tool data for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:48:02.045] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:48:16.532] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (4aea5e44-f0e2-4cd9-af7a-31009357ab37)
+[09Mar2025 01:48:42.698] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering attribute modifiers for  (8b6c019b-1758-430a-8142-6636146d7c39)
+[09Mar2025 01:48:42.698] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering effect data for  (8b6c019b-1758-430a-8142-6636146d7c39)
+[09Mar2025 01:48:42.699] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.ModularItem/]: Gathering tool data for  (8b6c019b-1758-430a-8142-6636146d7c39)
+[09Mar2025 01:48:49.247] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (ee221b08-fa17-454b-bc21-f31dc1fe9322)
+[09Mar2025 01:48:49.429] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[09Mar2025 01:48:49.431] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[09Mar2025 01:48:49.431] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[09Mar2025 01:48:49.642] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (0291af05-8405-4bdc-82a7-4723f23a1d99)
+[09Mar2025 01:48:50.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Mar2025 01:48:50.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Mar2025 01:48:52.058] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Mar2025 01:48:52.058] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[09Mar2025 01:48:52.061] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Mar2025 01:49:57.732] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (8b6c019b-1758-430a-8142-6636146d7c39)
+[09Mar2025 01:49:59.493] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_sword)
+[09Mar2025 01:50:01.471] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (d85d1077-76d6-4ab8-8b8d-f8f859b80655)
+[09Mar2025 01:50:01.472] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (f6565a8f-d732-4ecf-ade8-725fe5acd884)
+[09Mar2025 01:50:01.474] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (205dc79c-dee5-450d-80eb-a585cefabf08)
+[09Mar2025 01:50:01.475] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (738c59f0-0b5b-43f5-bc7f-844a81cdaff4)
+[09Mar2025 01:51:09.965] [Server thread/DEBUG] [se.mickelus.tetra.items.modular.IModularItem/]: Gathering properties for  (INVALID-modular_double)
+[09Mar2025 01:52:23.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
